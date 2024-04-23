@@ -14,6 +14,10 @@ body {
   overflow: hidden;
   font-family: poppins;
 }
+.h3{
+  font-size: x-large;
+
+}
 
 .container {
   position: relative;
@@ -121,7 +125,7 @@ span a{
 span a:before,
 span a:after{
   position: absolute;
-  content: "BUTTON";
+  content: "SUBMIT";
   height: 55px;
   width: 180px;
   display: flex;
